@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    background-color:lightblue
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 25px 30px;
+    font-size: 25px;
+    padding: 10px;
+}
+input[type="submit"]{
+    background-color: burlywood;
+    color: antiquewhite;
+    padding: 10px 15px;
+    border: b;
+}
+    
+
+
+
+
+
